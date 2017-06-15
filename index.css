@@ -1,0 +1,45 @@
+@font-face {
+  font-family: regular;
+  src: url(./font/regular.otf);
+}
+
+@font-face {
+    font-family: light;
+    src: url(./font/light.ttf);
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: regular;
+}
+
+h2 {
+  font-family: regular;
+}
+
+h3 {
+  font-family: regular;
+}
+
+h4 {
+  font-family: regular;
+}
+
+img {
+  width: 45px;
+  height: auto;
+  margin-right: 7px;
+  margin-left: 7px;
+  padding: 5px;
+}
+
+.wrapper {
+  
+}
